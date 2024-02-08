@@ -34,3 +34,5 @@ Root: https://event-360-server-alpha.vercel.app/
    ----------BAM the app is running-----------
 3. Open browser you use and run the APIs above
    You can use PostMan to check all the APIs
+
+-------lets rock--------
